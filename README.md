@@ -17,6 +17,7 @@ If you want to test the archetype:
 
 (in the interactive mode, you'll have to enter the groupId, artifactId, package and version of your new project).
 
-Current issus:
-* The generated projects contain the folder src/main/resources, although the folder ist empty.
-* The file checkstyle.xml has to be customized to the needs for the lecture.
+Current issues:
+* The generated projects contain the folder `src/main/resources`, although the folder ist empty.
+* The file `checkstyle.xml` has to be customized to the needs for the lecture.
+* Find a nice domain for the groupId of the archetype before deployment to maven central.
