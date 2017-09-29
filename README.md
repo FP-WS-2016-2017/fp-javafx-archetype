@@ -3,6 +3,7 @@ A simple maven archetype for Java 8/Java FX (not yet deployed to Maven Central!)
 
 With the archetype it is possible to generate a maven project including the following properties, plugins and files:
 - Java 8
+- Junit 4
 - JavaFX-Maven-plugin
 - Checkstyle-Maven-Plugin with a custom checkstyle.xml
 - UTF-8
